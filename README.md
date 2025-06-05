@@ -1,6 +1,6 @@
-# Project #3. Automotive Modes:
-# Deriving Data-Driven Pathways to Enhance Fuel Efficiency of Hybrid Vehicles
+# Project #6. Radiation Therapy
+# Mapping Out Optimal Intensities to Target Cancerous Lesions in the Brain
 
-● Processed input data for instantaneous speed and lateral acceleration using MATLAB, obtained from digital sensors                 
-● Implemented pseudocode for driving logic, opting for 'economy' mode when vehicle speed is less than 100km/h            
-● Configured a connection for the signal, allowing 'high performance' mode when acceleration is more than 3m/s^2           
+● Simulated radiotherapy treatment using MATLAB to graphically delineate the malignant region from normal tissue              
+● Constructed the objective function by computing the total ionization exposure for healthy cells and the spinal cord            
+● Imposed constraints to ensure a lethal dosage of over 7 Rads is delivered by perpendicular beamlets to the tumor                     
